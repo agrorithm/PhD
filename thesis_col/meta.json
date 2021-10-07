@@ -1,0 +1,69 @@
+{
+    "classes": [
+        {
+            "id": 8783539,
+            "title": "Barcode",
+            "shape": "rectangle",
+            "hotkey": "B",
+            "color": "#4100A8"
+        },
+        {
+            "id": 8786597,
+            "title": "Color bar",
+            "shape": "rectangle",
+            "hotkey": "D",
+            "color": "#968DD8"
+        },
+        {
+            "id": 8629536,
+            "title": "Stamp",
+            "shape": "polygon",
+            "hotkey": "S",
+            "color": "#279183"
+        },
+        {
+            "id": 8629537,
+            "title": "Index Card",
+            "shape": "rectangle",
+            "hotkey": "C",
+            "color": "#B12B8F"
+        },
+        {
+            "id": 8629540,
+            "title": "Terminal Leaf",
+            "shape": "polygon",
+            "hotkey": "T",
+            "color": "#C1F924"
+        },
+        {
+            "id": 8629542,
+            "title": "Flower",
+            "shape": "polygon",
+            "hotkey": "F",
+            "color": "#B3C828"
+        },
+        {
+            "id": 8629538,
+            "title": "Wood Material",
+            "shape": "polygon",
+            "hotkey": "W",
+            "color": "#871266"
+        },
+        {
+            "id": 8629539,
+            "title": "Measurement Bar",
+            "shape": "rectangle",
+            "hotkey": "M",
+            "color": "#A239A7"
+        },
+        {
+            "id": 8629541,
+            "title": "Other Leaves",
+            "shape": "polygon",
+            "hotkey": "O",
+            "color": "#66E584"
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

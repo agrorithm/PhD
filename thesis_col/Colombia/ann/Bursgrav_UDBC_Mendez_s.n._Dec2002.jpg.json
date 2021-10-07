@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 8740,
+        "width": 6555
+    },
+    "objects": [
+        {
+            "id": 809935364,
+            "classId": 8629536,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:57:43.130Z",
+            "updatedAt": "2021-10-06T14:57:50.494Z",
+            "tags": [],
+            "classTitle": "Stamp",
+            "points": {
+                "exterior": [
+                    [
+                        4969,
+                        79
+                    ],
+                    [
+                        6489,
+                        159
+                    ],
+                    [
+                        6554,
+                        1153
+                    ],
+                    [
+                        5060,
+                        1507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809935367,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:57:47.111Z",
+            "updatedAt": "2021-10-06T14:57:50.494Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        4283,
+                        5964
+                    ],
+                    [
+                        6535,
+                        6776
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809935374,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:57:50.341Z",
+            "updatedAt": "2021-10-06T14:57:50.341Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        3483,
+                        6799
+                    ],
+                    [
+                        6466,
+                        8650
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

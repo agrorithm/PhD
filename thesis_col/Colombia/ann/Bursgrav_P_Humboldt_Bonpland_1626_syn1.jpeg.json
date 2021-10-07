@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 5146,
+        "width": 3272
+    },
+    "objects": [
+        {
+            "id": 809934972,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:53:26.357Z",
+            "updatedAt": "2021-10-06T14:53:32.063Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        2168,
+                        3949
+                    ],
+                    [
+                        3123,
+                        4259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809934979,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:53:29.035Z",
+            "updatedAt": "2021-10-06T14:53:32.063Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        1952,
+                        4333
+                    ],
+                    [
+                        3110,
+                        5066
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809934987,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:53:31.922Z",
+            "updatedAt": "2021-10-06T14:53:31.922Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        4703
+                    ],
+                    [
+                        600,
+                        5093
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

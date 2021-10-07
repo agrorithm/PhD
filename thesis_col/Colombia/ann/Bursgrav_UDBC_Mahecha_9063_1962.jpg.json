@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 8740,
+        "width": 6555
+    },
+    "objects": [
+        {
+            "id": 809935326,
+            "classId": 8629536,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:57:07.025Z",
+            "updatedAt": "2021-10-06T14:57:24.954Z",
+            "tags": [],
+            "classTitle": "Stamp",
+            "points": {
+                "exterior": [
+                    [
+                        1792,
+                        79
+                    ],
+                    [
+                        3746,
+                        159
+                    ],
+                    [
+                        3598,
+                        1313
+                    ],
+                    [
+                        1998,
+                        1050
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809935335,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:57:13.946Z",
+            "updatedAt": "2021-10-06T14:57:24.954Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        3335,
+                        6753
+                    ],
+                    [
+                        6455,
+                        8696
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809935348,
+            "classId": 8629536,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:57:24.807Z",
+            "updatedAt": "2021-10-06T14:57:24.807Z",
+            "tags": [],
+            "classTitle": "Stamp",
+            "points": {
+                "exterior": [
+                    [
+                        4763,
+                        239
+                    ],
+                    [
+                        6375,
+                        250
+                    ],
+                    [
+                        6203,
+                        913
+                    ],
+                    [
+                        4843,
+                        901
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

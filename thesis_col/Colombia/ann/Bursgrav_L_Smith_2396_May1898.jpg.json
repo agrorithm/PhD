@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 6231,
+        "width": 3600
+    },
+    "objects": [
+        {
+            "id": 809934422,
+            "classId": 8629536,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:47:40.535Z",
+            "updatedAt": "2021-10-06T14:47:54.231Z",
+            "tags": [],
+            "classTitle": "Stamp",
+            "points": {
+                "exterior": [
+                    [
+                        2395,
+                        48
+                    ],
+                    [
+                        3576,
+                        23
+                    ],
+                    [
+                        3560,
+                        268
+                    ],
+                    [
+                        2362,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809934425,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:47:45.113Z",
+            "updatedAt": "2021-10-06T14:47:54.231Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        2281,
+                        5124
+                    ],
+                    [
+                        3568,
+                        5776
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809934426,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:47:46.688Z",
+            "updatedAt": "2021-10-06T14:47:54.231Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        2924,
+                        4782
+                    ],
+                    [
+                        3576,
+                        5083
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809934435,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:47:54.092Z",
+            "updatedAt": "2021-10-06T14:47:54.092Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        5629
+                    ],
+                    [
+                        782,
+                        5800
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

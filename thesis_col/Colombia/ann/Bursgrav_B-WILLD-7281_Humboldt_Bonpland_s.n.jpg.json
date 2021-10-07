@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2800,
+        "width": 1688
+    },
+    "objects": [
+        {
+            "id": 809931866,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:22:32.831Z",
+            "updatedAt": "2021-10-06T14:22:32.831Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        2486
+                    ],
+                    [
+                        925,
+                        2786
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

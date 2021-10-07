@@ -1,0 +1,66 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 8500,
+        "width": 5750
+    },
+    "objects": [
+        {
+            "id": 809934574,
+            "classId": 8629536,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:49:51.628Z",
+            "updatedAt": "2021-10-06T14:50:00.874Z",
+            "tags": [],
+            "classTitle": "Stamp",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        7557
+                    ],
+                    [
+                        1297,
+                        7701
+                    ],
+                    [
+                        1063,
+                        8435
+                    ],
+                    [
+                        104,
+                        8277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809934583,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:50:00.732Z",
+            "updatedAt": "2021-10-06T14:50:00.732Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        3564,
+                        6434
+                    ],
+                    [
+                        5531,
+                        8246
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 5079,
+        "width": 3291
+    },
+    "objects": [
+        {
+            "id": 809934870,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:52:45.873Z",
+            "updatedAt": "2021-10-06T14:52:57.627Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        65,
+                        6
+                    ],
+                    [
+                        1240,
+                        969
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809934873,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:52:49.267Z",
+            "updatedAt": "2021-10-06T14:52:57.627Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        3413
+                    ],
+                    [
+                        1088,
+                        3718
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809934878,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:52:51.871Z",
+            "updatedAt": "2021-10-06T14:52:57.627Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        71,
+                        3798
+                    ],
+                    [
+                        961,
+                        4290
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809934882,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:52:54.244Z",
+            "updatedAt": "2021-10-06T14:52:57.627Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        4343
+                    ],
+                    [
+                        1287,
+                        4947
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809934889,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:52:57.476Z",
+            "updatedAt": "2021-10-06T14:53:00.567Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        2423,
+                        3559
+                    ],
+                    [
+                        3233,
+                        3924
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809934893,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T14:53:00.415Z",
+            "updatedAt": "2021-10-06T14:53:00.415Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        1991,
+                        4336
+                    ],
+                    [
+                        3239,
+                        4993
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

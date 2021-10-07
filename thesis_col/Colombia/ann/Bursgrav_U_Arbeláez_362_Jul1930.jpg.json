@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 6390,
+        "width": 3830
+    },
+    "objects": [
+        {
+            "id": 809935802,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T15:02:14.716Z",
+            "updatedAt": "2021-10-06T15:02:24.178Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        2859,
+                        4444
+                    ],
+                    [
+                        3511,
+                        4920
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809935805,
+            "classId": 8629537,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T15:02:17.494Z",
+            "updatedAt": "2021-10-06T15:02:24.178Z",
+            "tags": [],
+            "classTitle": "Index Card",
+            "points": {
+                "exterior": [
+                    [
+                        2625,
+                        4920
+                    ],
+                    [
+                        3661,
+                        5948
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 809935818,
+            "classId": 8629536,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "mvalko_gmu",
+            "createdAt": "2021-10-06T15:02:24.034Z",
+            "updatedAt": "2021-10-06T15:02:24.034Z",
+            "tags": [],
+            "classTitle": "Stamp",
+            "points": {
+                "exterior": [
+                    [
+                        2675,
+                        166
+                    ],
+                    [
+                        3770,
+                        149
+                    ],
+                    [
+                        3737,
+                        843
+                    ],
+                    [
+                        2767,
+                        818
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
